@@ -52,3 +52,12 @@
         font-size: 14px !important;
     }
 }
+@media only screen and (max-width:590px){
+    .thumb{
+            display: flex;
+            flex: 0 0 50% !important;
+            max-width: 50% !important;
+            margin: 0 !important;
+            padding: 5px !important;
+    }
+}
