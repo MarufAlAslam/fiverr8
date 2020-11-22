@@ -210,7 +210,7 @@ body{
     background-color: var(--warning);
     z-index: 1;
     top: 40%;
-    right: 2%;
+    right: 4%;
 }
 
 .slider1_prev_arrow{
@@ -218,7 +218,7 @@ body{
     background-color: var(--warning);
     z-index: 1;
     top: 40%;
-    left: 2%;
+    left: 4%;
 }
 /* ==========================================Slides========================================== */
 

@@ -58,4 +58,36 @@
     .shopbtn{
         position: unset;
     }
+    
+}
+@media only screen and (max-width:576px){
+    .hero-title{
+        left: 60px;
+        top: 20%;
+    }
+    .font-85{
+        font-size: 30px !important;
+    }
+    .hero-title button{
+        margin: 0px !important;
+        padding: 10px 20px !important;
+    }
+    .Slides .slick-dots{
+        bottom: -25px !important;
+    }
+    .slider1_next_arrow{
+        position: absolute;
+        background-color: var(--warning);
+        z-index: 1;
+        top: 35%;
+        right: 4%;
+    }
+    
+    .slider1_prev_arrow{
+        position: absolute;
+        background-color: var(--warning);
+        z-index: 1;
+        top: 35%;
+        left: 4%;
+    }
 }
