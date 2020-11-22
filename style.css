@@ -473,6 +473,20 @@ html{
         margin-left: 145px !important;
     }
 }
+@media only screen and (max-width:992px){
+    .footer{
+        text-align: center;
+    }
+    .footer .col-lg-3:nth-child(1){
+        border-bottom: 2px solid white;
+        margin-bottom: 10px;
+    }
+
+    .footer .col-lg-2{
+        border-bottom: 2px solid white;
+        margin-bottom: 10px;
+    }
+}
 @media only screen and (max-width:768px){
     .search {
         border: 1px solid black;
