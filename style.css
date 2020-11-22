@@ -484,6 +484,9 @@ html{
         margin-top: 10px;
         margin-left: 0 !important;
     }
+.topBar .container{
+        max-width: 100% !important;
+    }
     .topBar img{
         display: flex;
         justify-content: center;
