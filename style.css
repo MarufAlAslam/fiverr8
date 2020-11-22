@@ -508,5 +508,8 @@ html{
     .smallfooter ul{
         text-align: center;
     }
+	.col-md-6.col-sm-12.fulls {
+        padding: 0;
+    }
 }
 
