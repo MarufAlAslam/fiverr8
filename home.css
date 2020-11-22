@@ -90,4 +90,7 @@
         top: 35%;
         left: 4%;
     }
+.slider1_next_arrow, .slider1_prev_arrow{
+        display:none;
+    }
 }
